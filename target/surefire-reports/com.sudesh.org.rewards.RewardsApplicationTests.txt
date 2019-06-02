@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sudesh.org.rewards.RewardsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.793 s - in com.sudesh.org.rewards.RewardsApplicationTests

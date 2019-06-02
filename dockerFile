@@ -1,0 +1,4 @@
+FROM openjdk:8
+ADD  target/reward-springboot-mysql.jar reward-springboot-mysql.jar
+EXPOSE 8086
+ENTRYPOINT ["java","-jar","reward-springboot-mysql.jar"]
